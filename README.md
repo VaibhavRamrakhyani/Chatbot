@@ -1,8 +1,4 @@
-Here's a README.md file tailored for your Streamlit chatbot application:
-
-markdown
-Copy code
-# PDF Chatbot with Streamlit
+# Chatbot with Streamlit
 
 Welcome to the PDF Chatbot project! This application allows users to interact with a conversational AI that can answer questions based on the content of multiple PDF documents. The chatbot is built using Streamlit and integrates various LangChain components, Hugging Face models, and PDF processing libraries.
 
