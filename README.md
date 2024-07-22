@@ -6,7 +6,7 @@ Welcome to the PDF Chatbot project! This application allows users to interact wi
 
 
 # Chatbot Streamlit Application
-
+https://www.loom.com/share/2f8a3f04763347ba9c3200ab9d675fb3?sid=590c5096-84c2-4a26-abf2-40e20e411edc
 ## Overview
 
 This Streamlit application is a chatbot that can respond to user queries based on the content of an uploaded PDF file. It utilizes the `ollama` library for generating responses and `PyPDF2` for PDF text extraction.
