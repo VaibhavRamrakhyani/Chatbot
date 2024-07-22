@@ -2,6 +2,8 @@
 
 Welcome to the PDF Chatbot project! This application allows users to interact with a conversational AI that can answer questions based on the content of multiple PDF documents. The chatbot is built using Streamlit and integrates various LangChain components, Hugging Face models, and PDF processing libraries.
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/b8e1d742-d6cb-4da1-ac0f-9c224e995b74">
+
 ## Features
 
 - **PDF Upload:** Upload and process multiple PDF documents.
