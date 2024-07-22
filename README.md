@@ -53,7 +53,7 @@ pip install streamlit ollama PyPDF2
 
 4.Setting Up Ollama and Downloading the Model
 1. Install Ollama CLI
-Download and install the Ollama CLI by following the instructions on the Ollama website. The installation process may vary based on your operating system:
+Download and install the Ollama CLI by following the instructions on the Ollama website ["https://ollama.com/download"]. The installation process may vary based on your operating system:
 
 For Windows:
 
