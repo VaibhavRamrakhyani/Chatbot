@@ -15,7 +15,7 @@ This Streamlit application is a chatbot that can respond to user queries based o
 
 Ensure you have the following installed:
 
-- Python 3.7 or higher
+- Python 3.8 or higher
 - Streamlit
 - Ollama
 - PyPDF2
@@ -63,7 +63,7 @@ Use Homebrew or download the binary from the Ollama website.
 2. Download the gemma:2b Model
 Once you have Ollama installed, use the following command to download the gemma:2b model:
 
-Copy code
+Copy code in cmd prompt:
 ollama run gemma:2b
 Running the Application
 Save Your Code
