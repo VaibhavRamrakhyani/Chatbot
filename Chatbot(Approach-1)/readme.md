@@ -13,7 +13,7 @@ Welcome to the PDF Chatbot project! This application allows users to interact wi
 
 Ensure you have Python 3.9 installed. Create a virtual environment and install the required packages using the following commands:
 
-```bash
+```
 pip install -r requirements.txt
 requirements.txt
 
@@ -32,7 +32,7 @@ Copy code
 HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token
 Run the Application: Start the Streamlit app with the following command:
 
-bash
+
 Copy code
 streamlit run app.py
 How It Works
