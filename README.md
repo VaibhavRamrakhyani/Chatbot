@@ -54,19 +54,17 @@ pip install streamlit ollama PyPDF2
 4.Setting Up Ollama and Downloading the Model
 1. Install Ollama CLI
 Download and install the Ollama CLI by following the instructions on the Ollama website ["https://ollama.com/download"]. The installation process may vary based on your operating system:
-
 For Windows:
-
 Download the installer from the Ollama website and follow the installation instructions.
-For macOS/Linux:
 
+For macOS/Linux:
 Use Homebrew or download the binary from the Ollama website.
+
 2. Download the gemma:2b Model
 Once you have Ollama installed, use the following command to download the gemma:2b model:
 
-bash
 Copy code
-ollama model download gemma:2b
+ollama run gemma:2b
 Running the Application
 Save Your Code
 
